@@ -12,10 +12,10 @@ $ open Stagram.xcworkspace
 
 ### Screenshots
 
-<img src="/Screenshots/iPhone-1.png?raw=true" alt="Drawing" style="width: 400px; margin-top:50px;"/>
+<img src="/Screenshots/iPhone-1.png?raw=true" alt="Drawing" width="400" style="margin-top:50px;"/>
 
-<img src="/Screenshots/iPhone-2.png?raw=true" alt="Drawing" style="width: 400px; margin-top:50px;"/>
+<img src="/Screenshots/iPhone-2.png?raw=true" alt="Drawing" width="400" style="margin-top:50px;"/>
 
-<img src="/Screenshots/iPad-1.png?raw=true" alt="Drawing" style="width: 600px; margin-top:50px;"/>
+<img src="/Screenshots/iPad-1.png?raw=true" alt="Drawing" width="600" style="margin-top:50px;"/>
 
-<img src="/Screenshots/iPad-2.png?raw=true" alt="Drawing" style="width: 600px; margin-top:50px;"/>
+<img src="/Screenshots/iPad-2.png?raw=true" alt="Drawing" width="600" style="margin-top:50px;"/>
