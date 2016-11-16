@@ -1,0 +1,6 @@
+framework module Pods_Stagram {
+  umbrella header "Pods-Stagram-umbrella.h"
+
+  export *
+  module * { export * }
+}

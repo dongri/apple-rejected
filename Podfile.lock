@@ -1,0 +1,45 @@
+PODS:
+  - Alamofire (4.0.0)
+  - AlamofireImage (3.1.0):
+    - Alamofire (~> 4.0)
+  - Crashlytics (3.8.3):
+    - Fabric (~> 1.6.3)
+  - Fabric (1.6.11)
+  - HanekeSwift (0.10.1)
+  - OAuthSwift (1.1.0)
+  - SloppySwiper (0.5)
+  - SwiftyJSON (3.1.1)
+
+DEPENDENCIES:
+  - Alamofire (= 4.0.0)
+  - AlamofireImage (= 3.1.0)
+  - Crashlytics
+  - Fabric
+  - HanekeSwift (from `git@github.com:Haneke/HanekeSwift.git`, branch `feature/swift-3`)
+  - OAuthSwift (= 1.1.0)
+  - SloppySwiper (= 0.5)
+  - SwiftyJSON (= 3.1.1)
+
+EXTERNAL SOURCES:
+  HanekeSwift:
+    :branch: feature/swift-3
+    :git: git@github.com:Haneke/HanekeSwift.git
+
+CHECKOUT OPTIONS:
+  HanekeSwift:
+    :commit: 1157a124ec699f4ad926cb054f1d0bfce88ae7a9
+    :git: git@github.com:Haneke/HanekeSwift.git
+
+SPEC CHECKSUMS:
+  Alamofire: fef59f00388f267e52d9b432aa5d93dc97190f14
+  AlamofireImage: bb8c8351c51cb1633bb6be69b6dbbaff37ce65b7
+  Crashlytics: 2b6dbe138a42395577cfa73dfa1aa7248cadf39e
+  Fabric: 5911403591946b8228ab1c51d98f1d7137e863c6
+  HanekeSwift: 4113367892828e7700d24a384027de6ebc79aad1
+  OAuthSwift: 7ec2c62274f6bdc30b1ba3b799c39a6fdcaea0e5
+  SloppySwiper: 7fdffc91062af8fb80574dee80082cb9e0cee507
+  SwiftyJSON: f0be2e604f83e8405a624e9f891898bf6ed4e019
+
+PODFILE CHECKSUM: a3e40a8cbf9f5b7bb92645148e28df9934e48c41
+
+COCOAPODS: 1.1.1
