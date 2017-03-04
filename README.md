@@ -2,7 +2,7 @@
 500px iOS Client
 
 ```
-$ git clone git@github.com:apple-rejected.git
+$ git clone git@github.com:dongri/apple-rejected.git
 $ open Stagram.xcworkspace
 ```
 
